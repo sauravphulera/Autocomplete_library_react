@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#React AutoComplete.
+This is a autocomplete in react, it contaions a number of basic and advance features of react including useCallBack(), abortController and Custom Hoooks.
 
 ## Available Scripts
 
